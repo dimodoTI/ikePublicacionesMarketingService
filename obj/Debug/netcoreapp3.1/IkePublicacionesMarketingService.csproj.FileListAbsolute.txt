@@ -142,3 +142,10 @@
 /Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/Microsoft.Spatial.dll
 /Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
 /Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/appsettings.Development.json
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/appsettings.json
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/IkePublicacionesMarketingService.deps.json
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/IkePublicacionesMarketingService.runtimeconfig.dev.json
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/IkePublicacionesMarketingService.runtimeconfig.json
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/package-lock.json
+/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/bin/Debug/netcoreapp3.1/out/Properties/launchSettings.json
