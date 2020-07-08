@@ -8718,19 +8718,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/danieldilorenzo/.nuget/packages/": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/IkePublicacionesMarketingService.csproj",
+      "projectUniqueName": "D:\\Users\\bruno\\OneDrive\\Documentos\\Proyectos\\Ike\\ikePublicacionesMarketingService\\IkePublicacionesMarketingService.csproj",
       "projectName": "IkePublicacionesMarketingService",
-      "projectPath": "/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/IkePublicacionesMarketingService.csproj",
-      "packagesPath": "/Users/danieldilorenzo/.nuget/packages/",
-      "outputPath": "/Users/danieldilorenzo/Desarrollo/api/IkePublicacionesMarketingService/obj/",
+      "projectPath": "D:\\Users\\bruno\\OneDrive\\Documentos\\Proyectos\\Ike\\ikePublicacionesMarketingService\\IkePublicacionesMarketingService.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\bruno\\OneDrive\\Documentos\\Proyectos\\Ike\\ikePublicacionesMarketingService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/danieldilorenzo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8805,7 +8805,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
